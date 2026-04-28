@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pr15_1_romanov</string>
+    <string name="text1">Привет</string>
+    <string name="text2">Наслаждайся отборочными.</string>
+    <string name="text3">Будь внимателен.</string>
+    <string name="text4">Делай хорошо.</string>
+    <string name="text5">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="text6">Войти в аккаунт</string>
+    <string name="text7">Sign In</string>
+    <string name="text8">Email</string>
+    <string name="text9">Пароль</string>
+    <string name="text10">Home</string>
+    <string name="text11">Dashboard</string>
+    <string name="text12">Notifications</string>
+    <string name="text13">С возвращением, Анатолий!</string>
+    <string name="text14">Каким ты себя ощущаешь сегодня?</string>
+    <string name="icon1">Спокойным</string>
+    <string name="icon2">Расслабленным</string>
+    <string name="icon3">Сосредоточенным</string>
+    <string name="icon4">Взволнованным</string>
+
+</resources>
